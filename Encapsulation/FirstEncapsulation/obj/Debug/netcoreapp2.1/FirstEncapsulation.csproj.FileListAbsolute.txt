@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Encapsulation\FirstEncapsulation\bin\Debug\netcoreapp2.1\FirstEncapsulation.deps.json
+C:\Users\User\source\repos\Encapsulation\FirstEncapsulation\bin\Debug\netcoreapp2.1\FirstEncapsulation.runtimeconfig.json
+C:\Users\User\source\repos\Encapsulation\FirstEncapsulation\bin\Debug\netcoreapp2.1\FirstEncapsulation.runtimeconfig.dev.json
+C:\Users\User\source\repos\Encapsulation\FirstEncapsulation\bin\Debug\netcoreapp2.1\FirstEncapsulation.dll
+C:\Users\User\source\repos\Encapsulation\FirstEncapsulation\bin\Debug\netcoreapp2.1\FirstEncapsulation.pdb
+C:\Users\User\source\repos\Encapsulation\FirstEncapsulation\obj\Debug\netcoreapp2.1\FirstEncapsulation.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Encapsulation\FirstEncapsulation\obj\Debug\netcoreapp2.1\FirstEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Encapsulation\FirstEncapsulation\obj\Debug\netcoreapp2.1\FirstEncapsulation.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Encapsulation\FirstEncapsulation\obj\Debug\netcoreapp2.1\FirstEncapsulation.AssemblyInfo.cs
+C:\Users\User\source\repos\Encapsulation\FirstEncapsulation\obj\Debug\netcoreapp2.1\FirstEncapsulation.dll
+C:\Users\User\source\repos\Encapsulation\FirstEncapsulation\obj\Debug\netcoreapp2.1\FirstEncapsulation.pdb
