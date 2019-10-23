@@ -1,0 +1,11 @@
+D:\GitHub Local\SoftUni-Software-Engineering\C# OOP\Interfaces and Abstraction\Border Control\bin\Debug\netcoreapp2.1\BorderControl.deps.json
+D:\GitHub Local\SoftUni-Software-Engineering\C# OOP\Interfaces and Abstraction\Border Control\bin\Debug\netcoreapp2.1\BorderControl.runtimeconfig.json
+D:\GitHub Local\SoftUni-Software-Engineering\C# OOP\Interfaces and Abstraction\Border Control\bin\Debug\netcoreapp2.1\BorderControl.runtimeconfig.dev.json
+D:\GitHub Local\SoftUni-Software-Engineering\C# OOP\Interfaces and Abstraction\Border Control\bin\Debug\netcoreapp2.1\BorderControl.dll
+D:\GitHub Local\SoftUni-Software-Engineering\C# OOP\Interfaces and Abstraction\Border Control\bin\Debug\netcoreapp2.1\BorderControl.pdb
+D:\GitHub Local\SoftUni-Software-Engineering\C# OOP\Interfaces and Abstraction\Border Control\obj\Debug\netcoreapp2.1\BorderControl.csproj.CoreCompileInputs.cache
+D:\GitHub Local\SoftUni-Software-Engineering\C# OOP\Interfaces and Abstraction\Border Control\obj\Debug\netcoreapp2.1\BorderControl.AssemblyInfoInputs.cache
+D:\GitHub Local\SoftUni-Software-Engineering\C# OOP\Interfaces and Abstraction\Border Control\obj\Debug\netcoreapp2.1\BorderControl.AssemblyInfo.cs
+D:\GitHub Local\SoftUni-Software-Engineering\C# OOP\Interfaces and Abstraction\Border Control\obj\Debug\netcoreapp2.1\BorderControl.dll
+D:\GitHub Local\SoftUni-Software-Engineering\C# OOP\Interfaces and Abstraction\Border Control\obj\Debug\netcoreapp2.1\BorderControl.pdb
+D:\GitHub Local\SoftUni-Software-Engineering\C# OOP\Interfaces and Abstraction\Border Control\obj\Debug\netcoreapp2.1\BorderControl.csprojAssemblyReference.cache

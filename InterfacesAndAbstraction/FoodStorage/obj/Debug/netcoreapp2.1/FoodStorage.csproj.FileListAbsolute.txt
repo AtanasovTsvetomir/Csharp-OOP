@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\InterfacesAndAbstraction\FoodStorage\bin\Debug\netcoreapp2.1\FoodStorage.deps.json
+C:\Users\User\source\repos\InterfacesAndAbstraction\FoodStorage\bin\Debug\netcoreapp2.1\FoodStorage.runtimeconfig.json
+C:\Users\User\source\repos\InterfacesAndAbstraction\FoodStorage\bin\Debug\netcoreapp2.1\FoodStorage.runtimeconfig.dev.json
+C:\Users\User\source\repos\InterfacesAndAbstraction\FoodStorage\bin\Debug\netcoreapp2.1\FoodStorage.dll
+C:\Users\User\source\repos\InterfacesAndAbstraction\FoodStorage\bin\Debug\netcoreapp2.1\FoodStorage.pdb
+C:\Users\User\source\repos\InterfacesAndAbstraction\FoodStorage\obj\Debug\netcoreapp2.1\FoodStorage.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\InterfacesAndAbstraction\FoodStorage\obj\Debug\netcoreapp2.1\FoodStorage.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\InterfacesAndAbstraction\FoodStorage\obj\Debug\netcoreapp2.1\FoodStorage.AssemblyInfo.cs
+C:\Users\User\source\repos\InterfacesAndAbstraction\FoodStorage\obj\Debug\netcoreapp2.1\FoodStorage.dll
+C:\Users\User\source\repos\InterfacesAndAbstraction\FoodStorage\obj\Debug\netcoreapp2.1\FoodStorage.pdb
