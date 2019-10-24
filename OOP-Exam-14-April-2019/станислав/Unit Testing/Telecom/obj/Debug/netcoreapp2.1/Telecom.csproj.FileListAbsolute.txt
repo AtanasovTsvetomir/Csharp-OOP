@@ -1,0 +1,11 @@
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\C Sharp OOP\CSharpOOPExam14Apr19\Unit Testing\Telecom\bin\Debug\netcoreapp2.1\Telecom.deps.json
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\C Sharp OOP\CSharpOOPExam14Apr19\Unit Testing\Telecom\bin\Debug\netcoreapp2.1\Telecom.runtimeconfig.json
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\C Sharp OOP\CSharpOOPExam14Apr19\Unit Testing\Telecom\bin\Debug\netcoreapp2.1\Telecom.runtimeconfig.dev.json
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\C Sharp OOP\CSharpOOPExam14Apr19\Unit Testing\Telecom\bin\Debug\netcoreapp2.1\Telecom.dll
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\C Sharp OOP\CSharpOOPExam14Apr19\Unit Testing\Telecom\bin\Debug\netcoreapp2.1\Telecom.pdb
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\C Sharp OOP\CSharpOOPExam14Apr19\Unit Testing\Telecom\obj\Debug\netcoreapp2.1\Telecom.csprojAssemblyReference.cache
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\C Sharp OOP\CSharpOOPExam14Apr19\Unit Testing\Telecom\obj\Debug\netcoreapp2.1\Telecom.csproj.CoreCompileInputs.cache
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\C Sharp OOP\CSharpOOPExam14Apr19\Unit Testing\Telecom\obj\Debug\netcoreapp2.1\Telecom.AssemblyInfoInputs.cache
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\C Sharp OOP\CSharpOOPExam14Apr19\Unit Testing\Telecom\obj\Debug\netcoreapp2.1\Telecom.AssemblyInfo.cs
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\C Sharp OOP\CSharpOOPExam14Apr19\Unit Testing\Telecom\obj\Debug\netcoreapp2.1\Telecom.dll
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\C Sharp OOP\CSharpOOPExam14Apr19\Unit Testing\Telecom\obj\Debug\netcoreapp2.1\Telecom.pdb

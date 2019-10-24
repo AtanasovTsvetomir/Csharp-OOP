@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\OOP-Exam-11-August-2019\UnitTesting\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.deps.json
+C:\Users\User\source\repos\OOP-Exam-11-August-2019\UnitTesting\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.runtimeconfig.json
+C:\Users\User\source\repos\OOP-Exam-11-August-2019\UnitTesting\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.runtimeconfig.dev.json
+C:\Users\User\source\repos\OOP-Exam-11-August-2019\UnitTesting\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.dll
+C:\Users\User\source\repos\OOP-Exam-11-August-2019\UnitTesting\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.pdb
+C:\Users\User\source\repos\OOP-Exam-11-August-2019\UnitTesting\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.csprojAssemblyReference.cache
+C:\Users\User\source\repos\OOP-Exam-11-August-2019\UnitTesting\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OOP-Exam-11-August-2019\UnitTesting\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\OOP-Exam-11-August-2019\UnitTesting\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.AssemblyInfo.cs
+C:\Users\User\source\repos\OOP-Exam-11-August-2019\UnitTesting\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.dll
+C:\Users\User\source\repos\OOP-Exam-11-August-2019\UnitTesting\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.pdb

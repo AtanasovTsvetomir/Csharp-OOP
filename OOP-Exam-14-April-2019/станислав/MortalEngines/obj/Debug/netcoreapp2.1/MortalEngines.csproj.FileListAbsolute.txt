@@ -1,0 +1,11 @@
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\C Sharp OOP\CSharpOOPExam14Apr19\MortalEngines\obj\Debug\netcoreapp2.1\MortalEngines.csprojAssemblyReference.cache
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\C Sharp OOP\CSharpOOPExam14Apr19\MortalEngines\obj\Debug\netcoreapp2.1\MortalEngines.csproj.CoreCompileInputs.cache
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\C Sharp OOP\CSharpOOPExam14Apr19\MortalEngines\obj\Debug\netcoreapp2.1\MortalEngines.AssemblyInfoInputs.cache
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\C Sharp OOP\CSharpOOPExam14Apr19\MortalEngines\obj\Debug\netcoreapp2.1\MortalEngines.AssemblyInfo.cs
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\C Sharp OOP\CSharpOOPExam14Apr19\MortalEngines\bin\Debug\netcoreapp2.1\MortalEngines.deps.json
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\C Sharp OOP\CSharpOOPExam14Apr19\MortalEngines\bin\Debug\netcoreapp2.1\MortalEngines.runtimeconfig.json
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\C Sharp OOP\CSharpOOPExam14Apr19\MortalEngines\bin\Debug\netcoreapp2.1\MortalEngines.runtimeconfig.dev.json
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\C Sharp OOP\CSharpOOPExam14Apr19\MortalEngines\bin\Debug\netcoreapp2.1\MortalEngines.dll
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\C Sharp OOP\CSharpOOPExam14Apr19\MortalEngines\bin\Debug\netcoreapp2.1\MortalEngines.pdb
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\C Sharp OOP\CSharpOOPExam14Apr19\MortalEngines\obj\Debug\netcoreapp2.1\MortalEngines.dll
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\C Sharp OOP\CSharpOOPExam14Apr19\MortalEngines\obj\Debug\netcoreapp2.1\MortalEngines.pdb

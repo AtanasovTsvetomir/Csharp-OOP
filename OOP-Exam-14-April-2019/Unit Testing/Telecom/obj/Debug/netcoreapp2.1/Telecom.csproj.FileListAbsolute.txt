@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\OOP-Exam-14-April-2019\Telecom\bin\Debug\netcoreapp2.1\Telecom.deps.json
+C:\Users\User\source\repos\OOP-Exam-14-April-2019\Telecom\bin\Debug\netcoreapp2.1\Telecom.runtimeconfig.json
+C:\Users\User\source\repos\OOP-Exam-14-April-2019\Telecom\bin\Debug\netcoreapp2.1\Telecom.runtimeconfig.dev.json
+C:\Users\User\source\repos\OOP-Exam-14-April-2019\Telecom\bin\Debug\netcoreapp2.1\Telecom.dll
+C:\Users\User\source\repos\OOP-Exam-14-April-2019\Telecom\bin\Debug\netcoreapp2.1\Telecom.pdb
+C:\Users\User\source\repos\OOP-Exam-14-April-2019\Telecom\obj\Debug\netcoreapp2.1\Telecom.csprojAssemblyReference.cache
+C:\Users\User\source\repos\OOP-Exam-14-April-2019\Telecom\obj\Debug\netcoreapp2.1\Telecom.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OOP-Exam-14-April-2019\Telecom\obj\Debug\netcoreapp2.1\Telecom.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\OOP-Exam-14-April-2019\Telecom\obj\Debug\netcoreapp2.1\Telecom.AssemblyInfo.cs
+C:\Users\User\source\repos\OOP-Exam-14-April-2019\Telecom\obj\Debug\netcoreapp2.1\Telecom.dll
+C:\Users\User\source\repos\OOP-Exam-14-April-2019\Telecom\obj\Debug\netcoreapp2.1\Telecom.pdb
